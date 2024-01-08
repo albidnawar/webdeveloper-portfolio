@@ -141,3 +141,12 @@ font-size: 20px;
 font-weight: 700;
 line-height: 30px;
 }
+#whatido{
+    padding: 30px 150px;
+}
+#whatido2{
+    padding-top: 130px;
+}
+.skill-container{
+    display: flex;
+}
